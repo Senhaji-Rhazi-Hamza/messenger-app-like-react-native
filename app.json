@@ -1,0 +1,17 @@
+{
+  "name": "messengerAppLikeReactNative",
+  "displayName": "messengerAppLikeReactNative",
+  "expo": {
+    "name": "messengerAppLikeReactNative",
+    "slug": "messengerAppLikeReactNative",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
